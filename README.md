@@ -16,5 +16,5 @@
 🔹 Credit Card Fraud Detection System  
 
 ## Connect With Me
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/takur-mamatha
 Portfolio: https://yourportfolio.com
