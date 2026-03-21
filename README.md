@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=AI+Developer;Full+Stack+Engineer;Machine+Learning+Enthusiast)
-
-# 👋 Hi, I'm Mamatha Takur
+# 👋 Hi, I'm Takur Mamatha
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=600\&lines=AI+Developer;Full+Stack+Engineer;Machine+Learning+Enthusiast;Spring+Boot+Developer)
 
@@ -93,4 +91,3 @@ Git | GitHub | Postman | Excel
 ---
 
 ⭐ *“Building intelligent solutions for real-world problems.”*
-
