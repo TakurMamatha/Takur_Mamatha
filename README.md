@@ -1,17 +1,17 @@
-# Hi 👋 I'm  Takur Mamatha
+# 👋 Hi, I'm Mamatha Takur
 
-💻 **AI & Full Stack Developer**
-🚀 Passionate about **Machine Learning, Backend Development, and Modern Web Technologies**
+🚀 **AI & Full Stack Developer**
+💡 Passionate about building intelligent, real-world applications using Machine Learning and modern web technologies
 
 ---
 
 ## 👩‍💻 About Me
 
 * 🎓 Computer Science Engineering Student
-* 🤖 Interested in **Artificial Intelligence and Machine Learning**
-* 🌐 Exploring **React, Spring Boot, and AI Integration**
-* 📚 Currently building **AI-powered applications**
-* 💡 Love solving real-world problems using technology
+* 🤖 Focused on **Artificial Intelligence & Machine Learning**
+* 🌐 Exploring **React, Spring Boot & Backend Development**
+* 🚀 Currently working on **AI-powered real-world projects**
+* 🧠 Strong interest in solving real-world problems using technology
 
 ---
 
@@ -19,59 +19,37 @@
 
 ### 🛒 AI Smart E-Commerce Recommendation System
 
-* Machine learning based recommendation system for suggesting products
-* Uses user behavior and purchase patterns to improve recommendations
-* Tech: Python, Machine Learning, Pandas, NumPy
+* Intelligent product recommendation using ML algorithms
+* Improves personalization based on user behavior
 
 ### 💳 Credit Card Fraud Detection System
 
-* ML model to detect fraudulent transactions
-* Uses classification algorithms and data preprocessing techniques
-* Tech: Python, Scikit-learn, Pandas, NumPy
+* Detects fraudulent transactions using classification models
+* Focus on accuracy and real-time detection
 
-### 🤖 AI + Spring Boot ML Integration
+### 🤖 AI + Spring Boot Integration
 
-* Integrating machine learning models with a Spring Boot backend
-* REST APIs for prediction services
-* Tech: Java, Spring Boot, Python, Machine Learning
+* ML models integrated with Spring Boot APIs
+* Provides real-time predictions through REST APIs
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages:**
+Java | Python | JavaScript | C
 
-* Java
-* Python
-* JavaScript
-* C
+**Web:**
+HTML | CSS | Node.js
 
-### Web Technologies
+**AI / ML:**
+Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
-* HTML
-* CSS
-* Node.js
+**Databases:**
+MySQL | MongoDB
 
-### AI / Data Science
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-
-### Databases
-
-* MySQL
-* MongoDB
-* SQL
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* MS Excel
+**Tools:**
+Git | GitHub | Postman | Excel
 
 ---
 
@@ -81,7 +59,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/takur-mamatha
 * 💻 GitHub: https://github.com/TakurMamatha
@@ -89,4 +67,4 @@
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ *Building. Learning. Growing.*
