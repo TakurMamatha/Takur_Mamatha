@@ -1,5 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=AI+Developer;Full+Stack+Engineer;Machine+Learning+Enthusiast)
-
 # 👋 Hi, I'm Takur Mamatha
 
 🚀 **AI & Full Stack Developer**
