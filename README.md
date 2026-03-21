@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mamatha Takur
+# 👋 Hi, I'm Takur Mamatha
 
 🚀 **AI & Full Stack Developer**
 💡 Passionate about building intelligent, real-world applications using Machine Learning and modern web technologies
