@@ -112,4 +112,6 @@ Contributions are welcome!
 
 * LinkedIn: [https://www.linkedin.com/in/takur-mamatha](https://www.linkedin.com/in/takur-mamatha)
 * GitHub: [https://github.com/TakurMamatha](https://github.com/TakurMamatha)
-* Email: *Add your email here*
+* Email: takurmamatha169@gmail.com
+
+
