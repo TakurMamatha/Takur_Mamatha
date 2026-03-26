@@ -15,13 +15,43 @@ This repository highlights my **key projects**, skills, and achievements — cur
 
 ## 🧠 Skills & Technologies
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Java](https://img.shields.io/badge/Java-17-red) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![HTML](https://img.shields.io/badge/HTML5-orange) ![CSS](https://img.shields.io/badge/CSS3-blue)
-**AI & ML:** ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2.2-orange) ![Pandas](https://img.shields.io/badge/Pandas-2.1.0-lightblue) ![NumPy](https://img.shields.io/badge/NumPy-1.26.0-lightblue)
-**Backend:** ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.2.1-green)
-**Frontend:** ![React](https://img.shields.io/badge/React-18.2.0-blue) ![HTML](https://img.shields.io/badge/HTML5-orange) ![CSS](https://img.shields.io/badge/CSS3-blue)
-**Database:** ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-**DevOps:** ![Docker](https://img.shields.io/badge/Docker-24.0.6-blue)
-**Tools:** Git, VSCode, Postman
+**Languages:**
+
+* Python ![Python](https://img.shields.io/badge/Python-3.11-blue)
+* Java ![Java](https://img.shields.io/badge/Java-17-red)
+* JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+* HTML ![HTML](https://img.shields.io/badge/HTML5-orange)
+* CSS ![CSS](https://img.shields.io/badge/CSS3-blue)
+
+**AI & ML:**
+
+* Scikit-Learn ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2.2-orange)
+* Pandas ![Pandas](https://img.shields.io/badge/Pandas-2.1.0-lightblue)
+* NumPy ![NumPy](https://img.shields.io/badge/NumPy-1.26.0-lightblue)
+
+**Backend:**
+
+* Spring Boot ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.2.1-green)
+
+**Frontend:**
+
+* React ![React](https://img.shields.io/badge/React-18.2.0-blue)
+* HTML ![HTML](https://img.shields.io/badge/HTML5-orange)
+* CSS ![CSS](https://img.shields.io/badge/CSS3-blue)
+
+**Database:**
+
+* MySQL ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+
+**DevOps:**
+
+* Docker ![Docker](https://img.shields.io/badge/Docker-24.0.6-blue)
+
+**Tools:**
+
+* Git
+* VSCode
+* Postman
 
 ---
 
@@ -112,6 +142,4 @@ Contributions are welcome!
 
 * LinkedIn: [https://www.linkedin.com/in/takur-mamatha](https://www.linkedin.com/in/takur-mamatha)
 * GitHub: [https://github.com/TakurMamatha](https://github.com/TakurMamatha)
-* Email: takurmamatha169@gmail.com
-
-
+* Email: *Add your email here*
